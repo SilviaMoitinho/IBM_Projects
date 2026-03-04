@@ -68,7 +68,7 @@ This project reinforced important skills such as:
 
 ## 📈 My Journey
 
-I am currently on **Course 04 of 12** in the IBM Data Science program and continuously improving my skills in:
+I am currently on **Course 05 of 12** in the IBM Data Science program and continuously improving my skills in:
 
 - Data Engineering  
 - Data Analysis  
